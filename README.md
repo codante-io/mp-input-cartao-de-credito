@@ -1,3 +1,5 @@
+Exercite seus conhecimentos em JavaScript, HTML e CSS para criar uma página de _input_ de cartão de crédito.
+
 ## 🔨 Requisitos
 
 - Desenvolva a aplicação mobile-first, utilizando HTML, CSS e JavaScript.
