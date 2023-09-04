@@ -2,7 +2,8 @@ Exercite seus conhecimentos em JavaScript, HTML e CSS para criar uma página de 
 
 ## 🔨 Requisitos
 
-- Desenvolva a aplicação mobile-first, utilizando HTML, CSS e JavaScript.
+- Desenvolva a aplicação mobile-first.
+- Utilize apenas HTML, CSS e JavaScript.
 - Crie uma página que renderiza um cartão de crédito e um formulário.
   - Os _inputs_ do formulário deverão capturar as informações em tempo real.
   - Ao digitar em um campo, as informações do cartão de crédito deverão ser atualizadas automaticamente.
