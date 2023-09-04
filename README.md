@@ -27,7 +27,7 @@ Temos uma sugestão de design no Figma. Mas sinta-se livre para utilizar a criat
 
 🔗 [Acesse o link do Figma](https://www.figma.com/community/file/1280597988349667150)
 
-![screenshot](https://github.com/codante-io/mp-input-cartao-de-credito/assets/78622334/27e434e2-6ea5-455c-91e6-42fb4af9bec7)
+![screenshot](https://github.com/codante-io/mp-input-cartao-de-credito/assets/78622334/36f2c4ff-f759-455c-b6a8-2c52534b24cb)
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhKOxhsoK1yyuAvi7vLV85x%2F%255BMini-projeto%255D-Cart%25C3%25A3o-de-Cr%25C3%25A9dito%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DtvpX3MRJcV9qHhVU-1" allowfullscreen></iframe>
 
