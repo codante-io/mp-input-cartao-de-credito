@@ -22,7 +22,7 @@ Exercite seus conhecimentos em JavaScript, HTML e CSS para criar uma página de 
 
 Temos uma sugestão de design no Figma. Mas sinta-se livre para utilizar a criatividade e fazer o seu próprio design.
 
-### Figma 🔗 [Acesse o link do Figma]()
+### Figma 🔗 [Acesse o link do Figma](https://www.figma.com/community/file/1280597988349667150)
 
 ![screenshot](https://github.com/codante-io/mp-input-cartao-de-credito/assets/78622334/27e434e2-6ea5-455c-91e6-42fb4af9bec7)
 
