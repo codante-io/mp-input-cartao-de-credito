@@ -30,8 +30,6 @@ Temos uma sugestão de design no Figma. Mas sinta-se livre para utilizar a criat
 
 🔗 [Acesse o link do Figma](https://www.figma.com/community/file/1280597988349667150)
 
-![Screenshot](https://github.com/codante-io/mp-input-cartao-de-credito/assets/78622334/7764a24d-826a-4c77-ae72-cfddbca4c04c)
-
 ## 👉🏽 Sobre esse mini-projeto
 
 ### Tecnologias sugeridas
