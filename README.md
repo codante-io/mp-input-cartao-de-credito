@@ -22,6 +22,9 @@ Exercite seus conhecimentos em JavaScript, HTML e CSS para criar uma página de 
 ## 🎨 Design Sugerido
 
 Temos uma sugestão de design no Figma. Mas sinta-se livre para utilizar a criatividade e fazer o seu próprio design.
+### Screenshot
+
+![Screenshot](https://github.com/codante-io/mp-input-cartao-de-credito/assets/78622334/7764a24d-826a-4c77-ae72-cfddbca4c04c)
 
 ### Figma
 
@@ -29,18 +32,18 @@ Temos uma sugestão de design no Figma. Mas sinta-se livre para utilizar a criat
 
 ![Screenshot](https://github.com/codante-io/mp-input-cartao-de-credito/assets/78622334/7764a24d-826a-4c77-ae72-cfddbca4c04c)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhKOxhsoK1yyuAvi7vLV85x%2F%255BMini-projeto%255D-Cart%25C3%25A3o-de-Cr%25C3%25A9dito%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DtvpX3MRJcV9qHhVU-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FYP00zkK6gBNZ1x0XvRGa1p%2F%255BMini-projeto%255D-Cart%25C3%25A3o-de-Cr%25C3%25A9dito-(Community)%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3Dp36Aa4AoNPy1xxjs-1" allowfullscreen></iframe>
 
 ## 👉🏽 Sobre esse mini-projeto
 
 ### Tecnologias sugeridas
 
-- `HTML, CSS, JavaScript`
+- `HTML, CSS e JavaScript`
 
 ## ❓ FAQ
 
-### Posso utilizar bibliotecas como o React?
+### Posso utilizar React ou outras bibliotecas?
 Você pode utilizar as ferramentas que desejar para implementar esse projeto. Porém, o objetivo principal aqui é exercitar os fundamentos de HTML, CSS e JavaScript e a resolução oficial será implementa dessa maneira.
 
 ### Posso utilizar frameworks de estilo?
-Sim! Apesar do objetivo principal desse projeto ser exercitar suas habilidades com CSS puro, você está livre para utilizar as ferramentas que desejar.
+Sim! Apesar do objetivo principal desse projeto ser exercitar suas habilidades com CSS puro, fique à vontade para utilizar as ferramentas que desejar.
